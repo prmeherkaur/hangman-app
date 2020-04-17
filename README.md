@@ -1,2 +1,3 @@
-# React-Applications
-React Applications created on the front-end with the help of create react app
+# hangman-app
+Recreation of traditional hangman game using react tools with inbuilt input and animation representation
+
