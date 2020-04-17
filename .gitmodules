@@ -1,0 +1,3 @@
+[submodule "card-deck-app"]
+	path = card-deck-app
+	url = ./card-deck-app
